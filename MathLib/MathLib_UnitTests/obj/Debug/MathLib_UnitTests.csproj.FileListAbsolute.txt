@@ -1,0 +1,8 @@
+C:\Users\Bam\Documents\GitHub\MathLib\MathLib\MathLib_UnitTests\bin\Debug\MathLib_UnitTests.dll
+C:\Users\Bam\Documents\GitHub\MathLib\MathLib\MathLib_UnitTests\bin\Debug\MathLib_UnitTests.pdb
+C:\Users\Bam\Documents\GitHub\MathLib\MathLib\MathLib_UnitTests\bin\Debug\MathLib.dll
+C:\Users\Bam\Documents\GitHub\MathLib\MathLib\MathLib_UnitTests\bin\Debug\MathLib.pdb
+C:\Users\Bam\Documents\GitHub\MathLib\MathLib\MathLib_UnitTests\obj\Debug\MathLib_UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Bam\Documents\GitHub\MathLib\MathLib\MathLib_UnitTests\obj\Debug\MathLib_UnitTests.dll
+C:\Users\Bam\Documents\GitHub\MathLib\MathLib\MathLib_UnitTests\obj\Debug\MathLib_UnitTests.pdb
+C:\Users\Bam\Documents\GitHub\MathLib\MathLib\MathLib_UnitTests\bin\Debug\MathLib_UnitTests.dll.config

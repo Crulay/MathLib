@@ -1,0 +1,153 @@
+MathLibLog Verbose: 16 : MathLib: MathLib initialisiert mit Berechnungsart: Recursive
+MathLibLog Verbose: 16 : MathLib: MathLib initialisiert mit Berechnungsart: List
+MathLibLog Verbose: 16 : FactorialList: Ermittle alle Zahlen zwischen 1 und 9
+MathLibLog Verbose: 16 : FactorialList: Alle Zahlen zwischen 1 und 9 ermittelt.
+MathLibLog Verbose: 16 : FactorialList: 1,2,3,4,5,6,7,8,9
+MathLibLog Verbose: 16 : MathLib: MathLib initialisiert mit Berechnungsart: Recursive
+MathLibLog Verbose: 16 : MathLib: MathLib initialisiert mit Berechnungsart: Recursive
+MathLibLog Warning: 4 : Factorial: 'n' muss >= 0 sein.
+MathLibLog Verbose: 16 : MathLib: MathLib initialisiert mit Berechnungsart: Recursive
+MathLibLog Verbose: 16 : MathLib: MathLib initialisiert mit Berechnungsart: Recursive
+MathLibLog Verbose: 16 : MathLib: MathLib initialisiert mit Berechnungsart: List
+MathLibLog Verbose: 16 : UnevenFactorialList: Ermittle alle ungraden Zahlen zwischen 1 und 5
+MathLibLog Verbose: 16 : UnevenFactorialList: Alle ungraden Zahlen zwischen 1 und 5 ermittelt.
+MathLibLog Verbose: 16 : 1,3,5
+MathLibLog Verbose: 16 : MathLib: MathLib initialisiert mit Berechnungsart: List
+MathLibLog Verbose: 16 : UnevenFactorialList: Ermittle alle ungraden Zahlen zwischen 1 und 6
+MathLibLog Verbose: 16 : UnevenFactorialList: Alle ungraden Zahlen zwischen 1 und 6 ermittelt.
+MathLibLog Verbose: 16 : 1,3,5
+MathLibLog Verbose: 16 : MathLib: MathLib initialisiert mit Berechnungsart: Recursive
+MathLibLog Verbose: 16 : MathLib: MathLib initialisiert mit Berechnungsart: Recursive
+MathLibLog Warning: 4 : UnevenFactorial: 'n' muss >= 0 sein.
+MathLibLog Verbose: 16 : MathLib: MathLib initialisiert mit Berechnungsart: List
+MathLibLog Verbose: 16 : SquareFactorialList: Ermittle alle potenzierten Zahlen zwischen 1 und 6
+MathLibLog Verbose: 16 : SquareFactorialList: Alle potenzierten Zahlen zwischen 1 und 6 ermittelt.
+MathLibLog Verbose: 16 : SquareFactorialList: 1,4,9,16,25,36
+MathLibLog Verbose: 16 : MathLib: MathLib initialisiert mit Berechnungsart: Recursive
+MathLibLog Verbose: 16 : MathLib: MathLib initialisiert mit Berechnungsart: Recursive
+MathLibLog Verbose: 16 : MathLib: MathLib initialisiert mit Berechnungsart: Recursive
+MathLibLog Warning: 4 : SquareFactorial: 'n' muss >= 0 sein.
+MathLibLog Verbose: 16 : MathLib: MathLib initialisiert mit Berechnungsart: Recursive
+MathLibLog Verbose: 16 : MathLib: MathLib initialisiert mit Berechnungsart: List
+MathLibLog Verbose: 16 : FactorialList: Ermittle alle Zahlen zwischen 1 und 9
+MathLibLog Verbose: 16 : FactorialList: Alle Zahlen zwischen 1 und 9 ermittelt.
+MathLibLog Verbose: 16 : FactorialList: 1,2,3,4,5,6,7,8,9
+MathLibLog Verbose: 16 : MathLib: MathLib initialisiert mit Berechnungsart: Recursive
+MathLibLog Verbose: 16 : MathLib: MathLib initialisiert mit Berechnungsart: Recursive
+MathLibLog Warning: 4 : Factorial: 'n' muss >= 0 sein.
+MathLibLog Verbose: 16 : MathLib: MathLib initialisiert mit Berechnungsart: Recursive
+MathLibLog Verbose: 16 : MathLib: MathLib initialisiert mit Berechnungsart: Recursive
+MathLibLog Verbose: 16 : MathLib: MathLib initialisiert mit Berechnungsart: List
+MathLibLog Verbose: 16 : UnevenFactorialList: Ermittle alle ungraden Zahlen zwischen 1 und 5
+MathLibLog Verbose: 16 : UnevenFactorialList: Alle ungraden Zahlen zwischen 1 und 5 ermittelt.
+MathLibLog Verbose: 16 : 1,3,5
+MathLibLog Verbose: 16 : MathLib: MathLib initialisiert mit Berechnungsart: List
+MathLibLog Verbose: 16 : UnevenFactorialList: Ermittle alle ungraden Zahlen zwischen 1 und 6
+MathLibLog Verbose: 16 : UnevenFactorialList: Alle ungraden Zahlen zwischen 1 und 6 ermittelt.
+MathLibLog Verbose: 16 : 1,3,5
+MathLibLog Verbose: 16 : MathLib: MathLib initialisiert mit Berechnungsart: Recursive
+MathLibLog Verbose: 16 : MathLib: MathLib initialisiert mit Berechnungsart: Recursive
+MathLibLog Warning: 4 : UnevenFactorial: 'n' muss >= 0 sein.
+MathLibLog Verbose: 16 : MathLib: MathLib initialisiert mit Berechnungsart: List
+MathLibLog Verbose: 16 : SquareFactorialList: Ermittle alle potenzierten Zahlen zwischen 1 und 6
+MathLibLog Verbose: 16 : SquareFactorialList: Alle potenzierten Zahlen zwischen 1 und 6 ermittelt.
+MathLibLog Verbose: 16 : SquareFactorialList: 1,4,9,16,25,36
+MathLibLog Verbose: 16 : MathLib: MathLib initialisiert mit Berechnungsart: Recursive
+MathLibLog Verbose: 16 : MathLib: MathLib initialisiert mit Berechnungsart: Recursive
+MathLibLog Verbose: 16 : MathLib: MathLib initialisiert mit Berechnungsart: Recursive
+MathLibLog Warning: 4 : SquareFactorial: 'n' muss >= 0 sein.
+MathLibLog Verbose: 16 : MathLib: MathLib initialisiert mit Berechnungsart: List
+MathLibLog Verbose: 16 : FactorialList: Ermittle alle Zahlen zwischen 1 und 20
+MathLibLog Verbose: 16 : FactorialList: Alle Zahlen zwischen 1 und 20 ermittelt.
+MathLibLog Verbose: 16 : FactorialList: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20
+MathLibLog Verbose: 16 : MathLib: MathLib initialisiert mit Berechnungsart: Recursive
+MathLibLog Verbose: 16 : FactorialRecursive: Berechne 20 *
+MathLibLog Verbose: 16 : FactorialRecursive: Berechne 19 *
+MathLibLog Verbose: 16 : FactorialRecursive: Berechne 18 *
+MathLibLog Verbose: 16 : FactorialRecursive: Berechne 17 *
+MathLibLog Verbose: 16 : FactorialRecursive: Berechne 16 *
+MathLibLog Verbose: 16 : FactorialRecursive: Berechne 15 *
+MathLibLog Verbose: 16 : FactorialRecursive: Berechne 14 *
+MathLibLog Verbose: 16 : FactorialRecursive: Berechne 13 *
+MathLibLog Verbose: 16 : FactorialRecursive: Berechne 12 *
+MathLibLog Verbose: 16 : FactorialRecursive: Berechne 11 *
+MathLibLog Verbose: 16 : FactorialRecursive: Berechne 10 *
+MathLibLog Verbose: 16 : FactorialRecursive: Berechne 9 *
+MathLibLog Verbose: 16 : FactorialRecursive: Berechne 8 *
+MathLibLog Verbose: 16 : FactorialRecursive: Berechne 7 *
+MathLibLog Verbose: 16 : FactorialRecursive: Berechne 6 *
+MathLibLog Verbose: 16 : FactorialRecursive: Berechne 5 *
+MathLibLog Verbose: 16 : FactorialRecursive: Berechne 4 *
+MathLibLog Verbose: 16 : FactorialRecursive: Berechne 3 *
+MathLibLog Verbose: 16 : FactorialRecursive: Berechne 2 *
+MathLibLog Verbose: 16 : FactorialRecursive: Berechne 1 *
+MathLibLog Verbose: 16 : MathLib: MathLib initialisiert mit Berechnungsart: Recursive
+MathLibLog Verbose: 16 : FactorialRecursive: Berechne 20 *
+MathLibLog Verbose: 16 : FactorialRecursive: Berechne 19 *
+MathLibLog Verbose: 16 : FactorialRecursive: Berechne 18 *
+MathLibLog Verbose: 16 : FactorialRecursive: Berechne 17 *
+MathLibLog Verbose: 16 : FactorialRecursive: Berechne 16 *
+MathLibLog Verbose: 16 : FactorialRecursive: Berechne 15 *
+MathLibLog Verbose: 16 : FactorialRecursive: Berechne 14 *
+MathLibLog Verbose: 16 : FactorialRecursive: Berechne 13 *
+MathLibLog Verbose: 16 : FactorialRecursive: Berechne 12 *
+MathLibLog Verbose: 16 : FactorialRecursive: Berechne 11 *
+MathLibLog Verbose: 16 : FactorialRecursive: Berechne 10 *
+MathLibLog Verbose: 16 : FactorialRecursive: Berechne 9 *
+MathLibLog Verbose: 16 : FactorialRecursive: Berechne 8 *
+MathLibLog Verbose: 16 : FactorialRecursive: Berechne 7 *
+MathLibLog Verbose: 16 : FactorialRecursive: Berechne 6 *
+MathLibLog Verbose: 16 : FactorialRecursive: Berechne 5 *
+MathLibLog Verbose: 16 : FactorialRecursive: Berechne 4 *
+MathLibLog Verbose: 16 : FactorialRecursive: Berechne 3 *
+MathLibLog Verbose: 16 : FactorialRecursive: Berechne 2 *
+MathLibLog Verbose: 16 : FactorialRecursive: Berechne 1 *
+MathLibLog Verbose: 16 : MathLib: MathLib initialisiert mit Berechnungsart: List
+MathLibLog Verbose: 16 : FactorialList: Ermittle alle Zahlen zwischen 1 und 20
+MathLibLog Verbose: 16 : FactorialList: Alle Zahlen zwischen 1 und 20 ermittelt.
+MathLibLog Verbose: 16 : FactorialList: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20
+MathLibLog Verbose: 16 : MathLib: MathLib initialisiert mit Berechnungsart: List
+MathLibLog Verbose: 16 : FactorialList: Ermittle alle Zahlen zwischen 1 und 9
+MathLibLog Verbose: 16 : FactorialList: Alle Zahlen zwischen 1 und 9 ermittelt.
+MathLibLog Verbose: 16 : FactorialList: 1,2,3,4,5,6,7,8,9
+MathLibLog Verbose: 16 : MathLib: MathLib initialisiert mit Berechnungsart: Recursive
+MathLibLog Verbose: 16 : MathLib: MathLib initialisiert mit Berechnungsart: Recursive
+MathLibLog Warning: 4 : Factorial: 'n' muss >= 0 sein.
+MathLibLog Verbose: 16 : MathLib: MathLib initialisiert mit Berechnungsart: Recursive
+MathLibLog Verbose: 16 : FactorialRecursive: Berechne 5 *
+MathLibLog Verbose: 16 : FactorialRecursive: Berechne 4 *
+MathLibLog Verbose: 16 : FactorialRecursive: Berechne 3 *
+MathLibLog Verbose: 16 : FactorialRecursive: Berechne 2 *
+MathLibLog Verbose: 16 : FactorialRecursive: Berechne 1 *
+MathLibLog Verbose: 16 : MathLib: MathLib initialisiert mit Berechnungsart: Recursive
+MathLibLog Verbose: 16 : FactorialRecursive: Berechne 6 *
+MathLibLog Verbose: 16 : FactorialRecursive: Berechne 5 *
+MathLibLog Verbose: 16 : FactorialRecursive: Berechne 4 *
+MathLibLog Verbose: 16 : FactorialRecursive: Berechne 3 *
+MathLibLog Verbose: 16 : FactorialRecursive: Berechne 2 *
+MathLibLog Verbose: 16 : FactorialRecursive: Berechne 1 *
+MathLibLog Verbose: 16 : MathLib: MathLib initialisiert mit Berechnungsart: List
+MathLibLog Verbose: 16 : UnevenFactorialList: Ermittle alle ungraden Zahlen zwischen 1 und 5
+MathLibLog Verbose: 16 : UnevenFactorialList: Alle ungraden Zahlen zwischen 1 und 5 ermittelt.
+MathLibLog Verbose: 16 : 1,3,5
+MathLibLog Verbose: 16 : MathLib: MathLib initialisiert mit Berechnungsart: List
+MathLibLog Verbose: 16 : UnevenFactorialList: Ermittle alle ungraden Zahlen zwischen 1 und 6
+MathLibLog Verbose: 16 : UnevenFactorialList: Alle ungraden Zahlen zwischen 1 und 6 ermittelt.
+MathLibLog Verbose: 16 : 1,3,5
+MathLibLog Verbose: 16 : MathLib: MathLib initialisiert mit Berechnungsart: Recursive
+MathLibLog Verbose: 16 : MathLib: MathLib initialisiert mit Berechnungsart: Recursive
+MathLibLog Warning: 4 : UnevenFactorial: 'n' muss >= 0 sein.
+MathLibLog Verbose: 16 : MathLib: MathLib initialisiert mit Berechnungsart: List
+MathLibLog Verbose: 16 : SquareFactorialList: Ermittle alle potenzierten Zahlen zwischen 1 und 6
+MathLibLog Verbose: 16 : SquareFactorialList: Alle potenzierten Zahlen zwischen 1 und 6 ermittelt.
+MathLibLog Verbose: 16 : SquareFactorialList: 1,4,9,16,25,36
+MathLibLog Verbose: 16 : MathLib: MathLib initialisiert mit Berechnungsart: Recursive
+MathLibLog Verbose: 16 : SquareFactorialRecursive: Berechne 6 ^ 2 *
+MathLibLog Verbose: 16 : SquareFactorialRecursive: Berechne 5 ^ 2 *
+MathLibLog Verbose: 16 : SquareFactorialRecursive: Berechne 4 ^ 2 *
+MathLibLog Verbose: 16 : SquareFactorialRecursive: Berechne 3 ^ 2 *
+MathLibLog Verbose: 16 : SquareFactorialRecursive: Berechne 2 ^ 2 *
+MathLibLog Verbose: 16 : SquareFactorialRecursive: Berechne 1 ^ 2 *
+MathLibLog Verbose: 16 : MathLib: MathLib initialisiert mit Berechnungsart: Recursive
+MathLibLog Verbose: 16 : MathLib: MathLib initialisiert mit Berechnungsart: Recursive
+MathLibLog Warning: 4 : SquareFactorial: 'n' muss >= 0 sein.

@@ -1,0 +1,4 @@
+C:\Users\Bam\Documents\GitHub\MathLib\MathLib\MathLib\bin\Debug\MathLib.dll
+C:\Users\Bam\Documents\GitHub\MathLib\MathLib\MathLib\bin\Debug\MathLib.pdb
+C:\Users\Bam\Documents\GitHub\MathLib\MathLib\MathLib\obj\Debug\MathLib.dll
+C:\Users\Bam\Documents\GitHub\MathLib\MathLib\MathLib\obj\Debug\MathLib.pdb
