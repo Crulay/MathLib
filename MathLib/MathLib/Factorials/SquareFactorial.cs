@@ -25,6 +25,8 @@ namespace Mathematics.Factorials
         /// <returns>Das Ergebniss der Berechnung</returns>
         public override System.Numerics.BigInteger CalculateWithList(int n)
         {
+            ValidateN(n);
+
             if (n == 0)
                 return 1;
 
@@ -44,6 +46,8 @@ namespace Mathematics.Factorials
         /// <returns>Das Ergebniss der Berechnung</returns>
         public override BigInteger CalculateWithRecursion(BigInteger n)
         {
+            ValidateN(n);
+
             if (n == 0)
                 return 1;
 

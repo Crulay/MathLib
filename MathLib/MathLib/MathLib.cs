@@ -14,6 +14,7 @@ namespace Mathematics
     /// <summary>
     /// Bibliothek, welche mathematische Funktionen zur verfügung stellt.
     /// TODO: Handle SystemOutOfMemoryException bei Fakultätsberechnung großer Zahlen
+    /// TODO: switches entfernen
     /// </summary>
     public class MathLib
     {

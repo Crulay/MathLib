@@ -7,6 +7,7 @@
 
 namespace Mathematics.Factorials
 {
+    using System;
     using System.Collections.Generic;
     using System.Linq;
     using System.Numerics;
@@ -28,6 +29,8 @@ namespace Mathematics.Factorials
         /// <returns>Das Ergebniss der Berechnung</returns>
         public virtual BigInteger CalculateWithList(int n)
         {
+            ValidateN(n);
+
             if (n == 0)
                 return 1;
 
@@ -47,10 +50,22 @@ namespace Mathematics.Factorials
         /// <returns>Das Ergebniss der Berechnung</returns>
         public virtual BigInteger CalculateWithRecursion(BigInteger n)
         {
+            ValidateN(n);
+
             if (n == 0)
                 return 1;
 
             return n * this.CalculateWithRecursion(n - 1);
+        }
+
+        /// <summary>
+        /// Validiert ob N >= 0 ist
+        /// </summary>
+        /// <param name="n"></param>
+        protected void ValidateN(BigInteger n)
+        {
+            if (n < 0)
+                throw new ArgumentException("'n' muss >= 0 sein.");
         }
     }
 }
