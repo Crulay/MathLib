@@ -7,7 +7,7 @@
     <ProjectGuid>{D0D855BF-E4C4-41CB-8D7A-57D835E26B9A}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>MathLib</RootNamespace>
+    <RootNamespace>Mathematics</RootNamespace>
     <AssemblyName>MathLib</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
@@ -43,6 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Factorials\Factorial.cs" />
+    <Compile Include="Factorials\UnevenFactorial.cs" />
+    <Compile Include="Factorials\SquareFactorial.cs" />
     <Compile Include="MathLib.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

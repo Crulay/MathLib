@@ -28,7 +28,7 @@ namespace MathLib_UnitTests
             // assemble
             BigInteger actual;
             BigInteger expected = 2432902008176640000;
-            MathLib.MathLib target = new MathLib.MathLib(MathLib.MathLib.CalculationType.Recursive);
+            Mathematics.MathLib target = new Mathematics.MathLib(Mathematics.MathLib.CalculationTyps.Recursive);
 
             // act
             actual = target.Factorial(20);
@@ -47,7 +47,7 @@ namespace MathLib_UnitTests
             // assemble
             BigInteger actual;
             BigInteger expected = 2432902008176640000;
-            MathLib.MathLib target = new MathLib.MathLib(MathLib.MathLib.CalculationType.List);
+            Mathematics.MathLib target = new Mathematics.MathLib(Mathematics.MathLib.CalculationTyps.List);
 
             // act
             actual = target.Factorial(20);
@@ -65,7 +65,7 @@ namespace MathLib_UnitTests
             // assemble
             BigInteger actual;
             BigInteger expected = 362880;
-            MathLib.MathLib target = new MathLib.MathLib(MathLib.MathLib.CalculationType.List);
+            Mathematics.MathLib target = new Mathematics.MathLib(Mathematics.MathLib.CalculationTyps.List);
 
             // act
             actual = target.Factorial(9);
@@ -83,7 +83,7 @@ namespace MathLib_UnitTests
             // assemble
             BigInteger actual;
             BigInteger expected = 1;
-            MathLib.MathLib target = new MathLib.MathLib(MathLib.MathLib.CalculationType.Recursive);
+            Mathematics.MathLib target = new Mathematics.MathLib(Mathematics.MathLib.CalculationTyps.Recursive);
 
             // act
             actual = target.Factorial(0);
@@ -100,7 +100,7 @@ namespace MathLib_UnitTests
         public void Factorial_ArgumentException_When_Factorial_BelowZero()
         {
             // assemble
-            MathLib.MathLib target = new MathLib.MathLib(MathLib.MathLib.CalculationType.Recursive);
+            Mathematics.MathLib target = new Mathematics.MathLib(Mathematics.MathLib.CalculationTyps.Recursive);
 
             // act
             target.Factorial(-15);
@@ -117,7 +117,7 @@ namespace MathLib_UnitTests
             // assemble
             BigInteger actual;
             BigInteger expected = 1;
-            MathLib.MathLib target = new MathLib.MathLib(MathLib.MathLib.CalculationType.Recursive);
+            Mathematics.MathLib target = new Mathematics.MathLib(Mathematics.MathLib.CalculationTyps.Recursive);
 
             // act
             actual = target.Factorial(int.MaxValue);
@@ -135,7 +135,7 @@ namespace MathLib_UnitTests
             // assemble
             BigInteger actual;
             BigInteger expected = 1;
-            MathLib.MathLib target = new MathLib.MathLib(MathLib.MathLib.CalculationType.List);
+            Mathematics.MathLib target = new Mathematics.MathLib(Mathematics.MathLib.CalculationTyps.List);
 
             // act
             actual = target.Factorial(int.MaxValue);
@@ -159,7 +159,7 @@ namespace MathLib_UnitTests
             // assemble
             BigInteger actual;
             BigInteger expected = 15;
-            MathLib.MathLib target = new MathLib.MathLib(MathLib.MathLib.CalculationType.Recursive);
+            Mathematics.MathLib target = new Mathematics.MathLib(Mathematics.MathLib.CalculationTyps.Recursive);
 
             // act
             actual = target.UnevenFactorial(5);
@@ -177,7 +177,7 @@ namespace MathLib_UnitTests
             // assemble
             BigInteger actual;
             BigInteger expected = 15;
-            MathLib.MathLib target = new MathLib.MathLib(MathLib.MathLib.CalculationType.Recursive);
+            Mathematics.MathLib target = new Mathematics.MathLib(Mathematics.MathLib.CalculationTyps.Recursive);
 
             // act
             actual = target.UnevenFactorial(6);
@@ -195,7 +195,7 @@ namespace MathLib_UnitTests
             // assemble
             BigInteger actual;
             BigInteger expected = 15;
-            MathLib.MathLib target = new MathLib.MathLib(MathLib.MathLib.CalculationType.List);
+            Mathematics.MathLib target = new Mathematics.MathLib(Mathematics.MathLib.CalculationTyps.List);
 
             // act
             actual = target.UnevenFactorial(5);
@@ -213,7 +213,7 @@ namespace MathLib_UnitTests
             // assemble
             BigInteger actual;
             BigInteger expected = 15;
-            MathLib.MathLib target = new MathLib.MathLib(MathLib.MathLib.CalculationType.List);
+            Mathematics.MathLib target = new Mathematics.MathLib(Mathematics.MathLib.CalculationTyps.List);
 
             // act
             actual = target.UnevenFactorial(6);
@@ -231,7 +231,7 @@ namespace MathLib_UnitTests
             // assemble
             BigInteger actual;
             BigInteger expected = 1;
-            MathLib.MathLib target = new MathLib.MathLib(MathLib.MathLib.CalculationType.Recursive);
+            Mathematics.MathLib target = new Mathematics.MathLib(Mathematics.MathLib.CalculationTyps.Recursive);
 
             // act
             actual = target.UnevenFactorial(0);
@@ -248,7 +248,7 @@ namespace MathLib_UnitTests
         public void UnevenFactorial_ArgumentException_When_Factorial_BelowZero()
         {
             // assemble
-            MathLib.MathLib target = new MathLib.MathLib(MathLib.MathLib.CalculationType.Recursive);
+            Mathematics.MathLib target = new Mathematics.MathLib(Mathematics.MathLib.CalculationTyps.Recursive);
 
             // act
             target.UnevenFactorial(-15);
@@ -307,7 +307,7 @@ namespace MathLib_UnitTests
             // assemble
             BigInteger actual;
             BigInteger expected = 518400;
-            MathLib.MathLib target = new MathLib.MathLib(MathLib.MathLib.CalculationType.List);
+            Mathematics.MathLib target = new Mathematics.MathLib(Mathematics.MathLib.CalculationTyps.List);
 
             // act
             actual = target.SquareFactorial(6);
@@ -325,7 +325,7 @@ namespace MathLib_UnitTests
             // assemble
             BigInteger actual;
             BigInteger expected = 518400;
-            MathLib.MathLib target = new MathLib.MathLib(MathLib.MathLib.CalculationType.Recursive);
+            Mathematics.MathLib target = new Mathematics.MathLib(Mathematics.MathLib.CalculationTyps.Recursive);
 
             // act
             actual = target.SquareFactorial(6);
@@ -343,7 +343,7 @@ namespace MathLib_UnitTests
             // assemble
             BigInteger actual;
             BigInteger expected = 1;
-            MathLib.MathLib target = new MathLib.MathLib(MathLib.MathLib.CalculationType.Recursive);
+            Mathematics.MathLib target = new Mathematics.MathLib(Mathematics.MathLib.CalculationTyps.Recursive);
 
             // act
             actual = target.SquareFactorial(0);
@@ -360,7 +360,7 @@ namespace MathLib_UnitTests
         public void SqareFactorial_ArgumentException_When_Factorial_BelowZero()
         {
             // assemble
-            MathLib.MathLib target = new MathLib.MathLib(MathLib.MathLib.CalculationType.Recursive);
+            Mathematics.MathLib target = new Mathematics.MathLib(Mathematics.MathLib.CalculationTyps.Recursive);
 
             // act
             target.SquareFactorial(-15);
