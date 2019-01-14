@@ -23,6 +23,7 @@ namespace Mathematics
         /// </summary>
         public MathLib()
         {
+            //Test
         }
 
         /// <summary>
